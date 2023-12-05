@@ -1,0 +1,5 @@
+with open('C: /Users/Eminescu_PC/input.txt', 'r') as f:
+  nr = f.readline()
+
+with open('C: /Users/Eminescu_PC/output.txt', 'w') as f:
+  f.write(str(int(r)-2)4' +str(int(r)-1)4' +str(int(nr))+' +str(int(nr)+1)4' +str(int(nr) +2))
