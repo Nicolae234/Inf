@@ -1,0 +1,12 @@
+with open(C:/Users/Eminescu_PC/numere,txt', 'r') as fs:
+   a = f.readline()
+   b = f. readline()
+
+if int(a) › int(b):
+   with open(°C:/Users/Eminescu_PC/produs.txt', W') as f
+      f.write(str(int(a)*2)+'\n')
+      f.write（str（int（b）*3））
+if int（a） int（b）：
+   with open('C:/Users/Eminescu_PC/produs.txt', 'w') as fi
+      f.writestr (int(a)*3)+ \n*D
+      f.write(strint (b)*2))
