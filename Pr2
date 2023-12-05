@@ -1,0 +1,9 @@
+with open('C:/Users/Eminescu_PC/globulete. txt', 'r') as f:
+   nr_globulete = f.readline()
+
+r = 3 + int (nr_globulete)
+b = int (nr_globulete) + r - 2
+total = int(nr_globulete) + r + b
+
+with open('C:/Users/Eminescu_PC/Bradut. txt', 'w') as f: f.write/
+('Bradutul contine '+str(int(total))+' globulete'
